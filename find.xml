@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '…/main.cpp'" />
+    <option name="defaultScopeName" value="File '…/main.cpp'" />
+    <option name="SEARCH_SCOPE" value="File '…/main.cpp'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
