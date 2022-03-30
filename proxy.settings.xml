@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://huskyonnet.uw.edu/vdesk/webtop.eui?z=/Common/huskyonnet-split_na_res&amp;webtop=/Common/huskyonnet-split_webtop&amp;webtop_type=webtop_na_only" />
+  </component>
+</application>
