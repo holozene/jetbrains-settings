@@ -26,9 +26,11 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Switcher" />
   <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
 </keymap>
