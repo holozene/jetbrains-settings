@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="7">
     <toolchains detectedVersion="5">
       <toolchain name="g++" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="gcc" customCXXCompilerPath="g++" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="e16535db-7578-4c3f-bad5-795723020c72" sshConfigName="oeaston@csslab6.uwb.edu:22 password" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
     </toolchains>
   </component>
 </application>
