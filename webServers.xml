@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3fad7ee4-80ca-49cc-a12c-d50fb78633bc" name="CSS Lab 6" url="http:///">
-        <fileTransfer rootFolder="/home/NETID/oeaston" accessType="SFTP" host="csslab6.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab6.uwb.edu:22 password" />
+        <fileTransfer rootFolder="/home/NETID/oeaston" accessType="SFTP" host="csslab7.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab7.uwb.edu:22 password" />
       </webServer>
     </option>
     <groups>
