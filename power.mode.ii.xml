@@ -1,0 +1,20 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueTo" value="20" />
+    <option name="customBamImageFolder" value="$USER_HOME$" />
+    <option name="customFlameImageFolder" value="$USER_HOME$" />
+    <option name="enabled" value="false" />
+    <option name="flamesEnabled" value="false" />
+    <option name="greenTo" value="190" />
+    <option name="heatup" value="0" />
+    <option name="heatupThreshold" value="25" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="keyStrokesPerMinute" value="200" />
+    <option name="maxFlameSize" value="60" />
+    <option name="shakeEnabled" value="true" />
+    <option name="shakeRange" value="5" />
+    <option name="soundsFolder" value="$USER_HOME$" />
+    <option name="sparkSize" value="4" />
+  </component>
+</application>
