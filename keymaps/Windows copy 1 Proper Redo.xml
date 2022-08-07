@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="EditorDeleteLine" />
   <action id="NextTab">
@@ -13,6 +17,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Switcher" />
 </keymap>
