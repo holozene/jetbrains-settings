@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="8">
     <toolchains detectedVersion="5">
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="BUNDLED_MINGW" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="Manjaro" customCMakePath="\usr\bin\cmake" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
