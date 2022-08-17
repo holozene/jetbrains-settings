@@ -2,10 +2,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e16535db-7578-4c3f-bad5-795723020c72" name="Remote Host (e16535db-7578-4c3f-bad5-795723020c72)" url="http:///">
-        <fileTransfer accessType="SFTP" host="csslab8.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab8.uwb.edu:22 password" />
+        <fileTransfer accessType="SFTP" host="csslab11.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab11.uwb.edu:22 password" />
       </webServer>
       <webServer id="3fad7ee4-80ca-49cc-a12c-d50fb78633bc" name="Remote Host (3fad7ee4-80ca-49cc-a12c-d50fb78633bc)" url="http:///">
-        <fileTransfer accessType="SFTP" host="csslab8.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab8.uwb.edu:22 password" />
+        <fileTransfer accessType="SFTP" host="csslab11.uwb.edu" port="22" sshConfigId="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" sshConfig="oeaston@csslab11.uwb.edu:22 password" />
       </webServer>
     </option>
     <groups>
