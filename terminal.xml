@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/bin/zsh" />
+    <option name="myShellPath" value="C:\Windows\System32\bash.exe" />
     <option name="myTabName" value="local" />
   </component>
 </application>

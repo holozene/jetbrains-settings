@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="csslab6.uwb.edu" id="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" port="22" nameFormat="DESCRIPTIVE" username="oeaston" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="csslab11.uwb.edu" id="72f8dcb1-6410-42d6-9ef6-1b94ba7ba356" port="22" nameFormat="DESCRIPTIVE" username="oeaston" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="e8eaaddf-fbb9-421e-9897-484e0b5d8e11" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
